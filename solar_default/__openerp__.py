@@ -44,6 +44,8 @@
     'port': '8069',
     'repos': [
         {'usr': 'jobiols', 'repo': 'cl-solar', 'branch': '11.0'},
+        {'usr': 'OCA', 'repo': 'web', 'branch': '11.0'},
+
     ],
     'docker': [
         {'name': 'odoo', 'usr': 'jobiols', 'img': 'odoo-jeo', 'ver': '11.0'},
