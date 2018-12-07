@@ -20,7 +20,7 @@
 # -----------------------------------------------------------------------------
 {
     'name': 'solar',
-    'version': '11.0.0.0.0',
+    'version': '11.0.0.0.1',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customizacion para Panasolar International',
